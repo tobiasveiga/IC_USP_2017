@@ -1,0 +1,24 @@
+Experiment [0] [1]
+ > 41 iterations 	 Val vs Test (MAc) = 0.955 vs 0.652
+ > 27 iterations 	 Val vs Test (MAc) = 0.950 vs 0.854
+ > 12 iterations 	 Val vs Test (MAc) = 0.947 vs 0.701
+ > 34 iterations 	 Val vs Test (MAc) = 0.979 vs 0.752
+ > 25 iterations 	 Val vs Test (MAc) = 0.978 vs 0.728
+Experiment [1] [0]
+ > 31 iterations 	 Val vs Test (MAc) = 0.917 vs 0.910
+ > 48 iterations 	 Val vs Test (MAc) = 0.943 vs 0.918
+ > 61 iterations 	 Val vs Test (MAc) = 0.935 vs 0.885
+ > 139 iterations 	 Val vs Test (MAc) = 0.937 vs 0.934
+ > 23 iterations 	 Val vs Test (MAc) = 0.936 vs 0.924
+Experiment [0, 1] [2]
+ > 39 iterations 	 Val vs Test (MAc) = 0.915 vs 0.712
+ > 42 iterations 	 Val vs Test (MAc) = 0.942 vs 0.713
+ > 9 iterations 	 Val vs Test (MAc) = 0.920 vs 0.721
+ > 106 iterations 	 Val vs Test (MAc) = 0.933 vs 0.714
+ > 17 iterations 	 Val vs Test (MAc) = 0.939 vs 0.718
+Experiment [2] [0, 1]
+ > 26 iterations 	 Val vs Test (MAc) = 0.924 vs 0.884
+ > 14 iterations 	 Val vs Test (MAc) = 0.841 vs 0.918
+ > 12 iterations 	 Val vs Test (MAc) = 0.886 vs 0.901
+ > 271 iterations 	 Val vs Test (MAc) = 0.817 vs 0.924
+ > 57 iterations 	 Val vs Test (MAc) = 0.927 vs 0.869
